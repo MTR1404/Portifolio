@@ -1,0 +1,248 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Dungeon Escape\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0EB5F87F-D67E-74C7-A680-2A7471C2CEB8}|Assembly-CSharp.csproj|D:\\Dungeon Escape\\assets\\scripts\\ui\\uimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EB5F87F-D67E-74C7-A680-2A7471C2CEB8}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\uimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EB5F87F-D67E-74C7-A680-2A7471C2CEB8}|Assembly-CSharp.csproj|D:\\Dungeon Escape\\assets\\scripts\\shop\\shop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EB5F87F-D67E-74C7-A680-2A7471C2CEB8}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\shop\\shop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EB5F87F-D67E-74C7-A680-2A7471C2CEB8}|Assembly-CSharp.csproj|d:\\dungeon escape\\assets\\scripts\\player\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EB5F87F-D67E-74C7-A680-2A7471C2CEB8}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EB5F87F-D67E-74C7-A680-2A7471C2CEB8}|Assembly-CSharp.csproj|D:\\Dungeon Escape\\assets\\scripts\\enemy\\spider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EB5F87F-D67E-74C7-A680-2A7471C2CEB8}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemy\\spider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EB5F87F-D67E-74C7-A680-2A7471C2CEB8}|Assembly-CSharp.csproj|D:\\Dungeon Escape\\assets\\scripts\\player\\playeranimation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EB5F87F-D67E-74C7-A680-2A7471C2CEB8}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\playeranimation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EB5F87F-D67E-74C7-A680-2A7471C2CEB8}|Assembly-CSharp.csproj|D:\\Dungeon Escape\\assets\\scripts\\attack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EB5F87F-D67E-74C7-A680-2A7471C2CEB8}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\attack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EB5F87F-D67E-74C7-A680-2A7471C2CEB8}|Assembly-CSharp.csproj|D:\\Dungeon Escape\\assets\\scripts\\enemy\\idamagable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EB5F87F-D67E-74C7-A680-2A7471C2CEB8}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemy\\idamagable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EB5F87F-D67E-74C7-A680-2A7471C2CEB8}|Assembly-CSharp.csproj|D:\\Dungeon Escape\\assets\\scripts\\enemy\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EB5F87F-D67E-74C7-A680-2A7471C2CEB8}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemy\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EB5F87F-D67E-74C7-A680-2A7471C2CEB8}|Assembly-CSharp.csproj|D:\\Dungeon Escape\\assets\\scripts\\enemy\\spideracid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EB5F87F-D67E-74C7-A680-2A7471C2CEB8}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemy\\spideracid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EB5F87F-D67E-74C7-A680-2A7471C2CEB8}|Assembly-CSharp.csproj|D:\\Dungeon Escape\\assets\\scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EB5F87F-D67E-74C7-A680-2A7471C2CEB8}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EB5F87F-D67E-74C7-A680-2A7471C2CEB8}|Assembly-CSharp.csproj|D:\\Dungeon Escape\\assets\\scripts\\enemy\\spiderevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EB5F87F-D67E-74C7-A680-2A7471C2CEB8}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemy\\spiderevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EB5F87F-D67E-74C7-A680-2A7471C2CEB8}|Assembly-CSharp.csproj|D:\\Dungeon Escape\\assets\\scripts\\diamond.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EB5F87F-D67E-74C7-A680-2A7471C2CEB8}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\diamond.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EB5F87F-D67E-74C7-A680-2A7471C2CEB8}|Assembly-CSharp.csproj|D:\\Dungeon Escape\\assets\\scripts\\enemy\\mossgiant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EB5F87F-D67E-74C7-A680-2A7471C2CEB8}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemy\\mossgiant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EB5F87F-D67E-74C7-A680-2A7471C2CEB8}|Assembly-CSharp.csproj|D:\\Dungeon Escape\\assets\\scripts\\enemy\\skeleton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EB5F87F-D67E-74C7-A680-2A7471C2CEB8}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemy\\skeleton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PlayerAnimation.cs",
+              "DocumentMoniker": "D:\\Dungeon Escape\\Assets\\Scripts\\Player\\PlayerAnimation.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\PlayerAnimation.cs",
+              "ToolTip": "D:\\Dungeon Escape\\Assets\\Scripts\\Player\\PlayerAnimation.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player\\PlayerAnimation.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC4AAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-22T11:30:39.297Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Shop.cs",
+              "DocumentMoniker": "D:\\Dungeon Escape\\Assets\\Scripts\\Shop\\Shop.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Shop\\Shop.cs",
+              "ToolTip": "D:\\Dungeon Escape\\Assets\\Scripts\\Shop\\Shop.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Shop\\Shop.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABEAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-21T09:02:54.815Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UIManager.cs",
+              "DocumentMoniker": "D:\\Dungeon Escape\\Assets\\Scripts\\UI\\UIManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\UIManager.cs",
+              "ToolTip": "D:\\Dungeon Escape\\Assets\\Scripts\\UI\\UIManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI\\UIManager.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAIwBsAAABxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-21T08:56:45.751Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Diamond.cs",
+              "DocumentMoniker": "D:\\Dungeon Escape\\Assets\\Scripts\\Diamond.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Diamond.cs",
+              "ToolTip": "D:\\Dungeon Escape\\Assets\\Scripts\\Diamond.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Diamond.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-21T08:51:14.207Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SpiderAcid.cs",
+              "DocumentMoniker": "D:\\Dungeon Escape\\Assets\\Scripts\\Enemy\\SpiderAcid.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemy\\SpiderAcid.cs",
+              "ToolTip": "D:\\Dungeon Escape\\Assets\\Scripts\\Enemy\\SpiderAcid.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Enemy\\SpiderAcid.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwBcAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-21T08:51:14.209Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "SpiderEvent.cs",
+              "DocumentMoniker": "D:\\Dungeon Escape\\Assets\\Scripts\\Enemy\\SpiderEvent.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemy\\SpiderEvent.cs",
+              "ToolTip": "D:\\Dungeon Escape\\Assets\\Scripts\\Enemy\\SpiderEvent.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Enemy\\SpiderEvent.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-21T08:51:14.21Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Spider.cs",
+              "DocumentMoniker": "D:\\Dungeon Escape\\Assets\\Scripts\\Enemy\\Spider.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemy\\Spider.cs",
+              "ToolTip": "D:\\Dungeon Escape\\Assets\\Scripts\\Enemy\\Spider.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Enemy\\Spider.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAYwBYAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-21T08:51:14.211Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Attack.cs",
+              "DocumentMoniker": "D:\\Dungeon Escape\\Assets\\Scripts\\Attack.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Attack.cs",
+              "ToolTip": "D:\\Dungeon Escape\\Assets\\Scripts\\Attack.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Attack.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAQwBIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-21T08:51:14.211Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Enemy.cs",
+              "DocumentMoniker": "D:\\Dungeon Escape\\Assets\\Scripts\\Enemy\\Enemy.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemy\\Enemy.cs",
+              "ToolTip": "D:\\Dungeon Escape\\Assets\\Scripts\\Enemy\\Enemy.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Enemy\\Enemy.cs",
+              "ViewState": "AQIAACgAAAAAAAAAAAAkwBAAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-21T08:51:14.213Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Player.cs",
+              "DocumentMoniker": "D:\\Dungeon Escape\\Assets\\Scripts\\Player\\Player.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\Player.cs",
+              "ToolTip": "D:\\Dungeon Escape\\Assets\\Scripts\\Player\\Player.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player\\Player.cs",
+              "ViewState": "AQIAADUAAAAAAAAAAAA9wDEAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-21T08:51:14.214Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IDamagable.cs",
+              "DocumentMoniker": "D:\\Dungeon Escape\\Assets\\Scripts\\Enemy\\IDamagable.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemy\\IDamagable.cs",
+              "ToolTip": "D:\\Dungeon Escape\\Assets\\Scripts\\Enemy\\IDamagable.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Enemy\\IDamagable.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-21T08:51:14.213Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "GameManager.cs",
+              "DocumentMoniker": "D:\\Dungeon Escape\\Assets\\Scripts\\GameManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GameManager.cs",
+              "ToolTip": "D:\\Dungeon Escape\\Assets\\Scripts\\GameManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GameManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-22T07:57:32.87Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Skeleton.cs",
+              "DocumentMoniker": "D:\\Dungeon Escape\\Assets\\Scripts\\Enemy\\Skeleton.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemy\\Skeleton.cs",
+              "ToolTip": "D:\\Dungeon Escape\\Assets\\Scripts\\Enemy\\Skeleton.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Enemy\\Skeleton.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAA6AAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAALNSURBVDhP7VNdSFNhGH7POds8znNy080/BIXldAbJcEkXiaChXRRCCIGK6E1CV/lDeZHl8EowxYtAIgxC7CIvRIe48kLDC5Vz41EmbhpDS51uudOmubNztr7vuILqoiDoyufie3nP9/B8z/tz4Bz/DCoRYc23xlTdqUpXl6rZ6NUoa6g0sJabFrasrkzjmnJ9xZxgMKhnKhi9\u002B6JbI8wJkc7OTuN28fYF\u002BbIMh/OHIuaQ\u002BMAQT8RWJM9JGolTkSpOikkcQRKcilINJigggzyI72gVPRgOhw2RWGRGDWouQkVaExQg8MF7\u002BW7nprNxZXfFTFM0FGcWA5PEABKFiBRxtJS2NGGxoYWhG/Nb85neI68PifLWXGu559BDH50cuUmCHN18vNmrOFz8uHjFG/Ca4/E41JhrwiU5JU\u002BtOVZ7gaHAnsVkvU5NTY3G4rHVbDZbMDJGIAhC0Gq0fJGxKMomsdjWLpLZwloK6l7UTda/rI/bHXZfKBR6hXqVlrj6CYEvgcm\u002Bt31xU69p6iB8kB0QAp\u002BaR5tx3pOgnPVww78BGpUGdFrdMsuyTTqd7rNymwByTqKHMvxhP30sHqMPQA8vDGf4Qj5KlEVkkGByn\u002BQqJhRBSZZwANRwJf6K7wMYeD9QPs6PQzQWvTayOOJsGGswcDscyDH5Lh4U5iqC\u002Bfp8OJVOgd/ncfobUlJSBOTqYe2lWr7CVIEfXjUbzQ\u002B6KruEQmMhoIE4UF\u002BfYa5iqbqoGlz7LnAfuM1tb9p6cM5oGEAlwl5oz02S5BiivQsEAwa0CYUkkG7nPeekP\u002Bg3Tq9Ps6jmOc8jzzLWUtZm6cNS94xrphEttzlNmwaWDAskq5NxaSBKoqP9evstzPsbKIIYs\u002BuzHWh1OiZWJ2BH2AGKpMCUboI8fd5s/\u002B3\u002BpgTtj/jxp9BAP0fBRkqkDfXEhiZro\u002BKUTY7K988Y5/g/APgG2Ocp0eSbumcAAAAASUVORK5CYII=",
+              "WhenOpened": "2024-02-21T08:51:14.214Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MossGiant.cs",
+              "DocumentMoniker": "D:\\Dungeon Escape\\Assets\\Scripts\\Enemy\\MossGiant.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemy\\MossGiant.cs",
+              "ToolTip": "D:\\Dungeon Escape\\Assets\\Scripts\\Enemy\\MossGiant.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Enemy\\MossGiant.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAA6AAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAALNSURBVDhP7VNdSFNhGH7POds8znNy080/BIXldAbJcEkXiaChXRRCCIGK6E1CV/lDeZHl8EowxYtAIgxC7CIvRIe48kLDC5Vz41EmbhpDS51uudOmubNztr7vuILqoiDoyufie3nP9/B8z/tz4Bz/DCoRYc23xlTdqUpXl6rZ6NUoa6g0sJabFrasrkzjmnJ9xZxgMKhnKhi9\u002B6JbI8wJkc7OTuN28fYF\u002BbIMh/OHIuaQ\u002BMAQT8RWJM9JGolTkSpOikkcQRKcilINJigggzyI72gVPRgOhw2RWGRGDWouQkVaExQg8MF7\u002BW7nprNxZXfFTFM0FGcWA5PEABKFiBRxtJS2NGGxoYWhG/Nb85neI68PifLWXGu559BDH50cuUmCHN18vNmrOFz8uHjFG/Ca4/E41JhrwiU5JU\u002BtOVZ7gaHAnsVkvU5NTY3G4rHVbDZbMDJGIAhC0Gq0fJGxKMomsdjWLpLZwloK6l7UTda/rI/bHXZfKBR6hXqVlrj6CYEvgcm\u002Bt31xU69p6iB8kB0QAp\u002BaR5tx3pOgnPVww78BGpUGdFrdMsuyTTqd7rNymwByTqKHMvxhP30sHqMPQA8vDGf4Qj5KlEVkkGByn\u002BQqJhRBSZZwANRwJf6K7wMYeD9QPs6PQzQWvTayOOJsGGswcDscyDH5Lh4U5iqC\u002Bfp8OJVOgd/ncfobUlJSBOTqYe2lWr7CVIEfXjUbzQ\u002B6KruEQmMhoIE4UF\u002BfYa5iqbqoGlz7LnAfuM1tb9p6cM5oGEAlwl5oz02S5BiivQsEAwa0CYUkkG7nPeekP\u002Bg3Tq9Ps6jmOc8jzzLWUtZm6cNS94xrphEttzlNmwaWDAskq5NxaSBKoqP9evstzPsbKIIYs\u002BuzHWh1OiZWJ2BH2AGKpMCUboI8fd5s/\u002B3\u002BpgTtj/jxp9BAP0fBRkqkDfXEhiZro\u002BKUTY7K988Y5/g/APgG2Ocp0eSbumcAAAAASUVORK5CYII=",
+              "WhenOpened": "2024-02-21T08:51:14.215Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
